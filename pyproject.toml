@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "task-list"
+version = "0.1.0"
+description = ""
+authors = ["Vikram Saraph"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+ruff = "^0.4.4"
+pydantic = "^2.7.1"
+fastapi = "^0.111.0"
+uvicorn = "^0.29.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
