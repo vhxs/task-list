@@ -1,4 +1,4 @@
-web_api/__pycache__
+server/__pycache__
 .idea/*
 .ruff_cache/*
 ui/package-lock.json
