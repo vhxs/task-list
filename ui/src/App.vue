@@ -1,11 +1,13 @@
 <template>
   <v-app>
     <v-main>
-      <HelloWorld />
+      <RecipeList />
     </v-main>
   </v-app>
 </template>
 
 <script setup lang="ts">
+import RecipeList from './components/RecipeList.vue';
+
   //
 </script>
